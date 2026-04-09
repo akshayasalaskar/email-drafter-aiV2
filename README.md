@@ -10,7 +10,7 @@ Quick check in browser: http://127.0.0.1:8001/health
 Run the frontend (Streamlit)
 In a second terminal:
 
-cd D:\email-drafter
+cd D:\email-drafter streamlit run streamlit_app.py
 # point Streamlit to the backend port
 $env:API_BASE_URL="http://127.0.0.1:8001"
 streamlit run streamlit_app.py
