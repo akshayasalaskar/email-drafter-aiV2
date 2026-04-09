@@ -1,0 +1,2 @@
+﻿# email-drafter-aiV2
+
